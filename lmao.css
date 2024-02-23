@@ -1,0 +1,13 @@
+.among {
+  color: yellow;
+  background-color: red;
+  display: inline-block;
+  padding: 5px;
+  border: 5px solid gold;
+  border-radius: 10px;
+  transition: color 2s, background 2s;
+}
+.among:hover {
+  color: blue;
+  background-color: orange;
+}
